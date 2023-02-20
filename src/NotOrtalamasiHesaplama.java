@@ -11,7 +11,7 @@ public class NotOrtalamasiHesaplama {
         //Kullanıcıdan değerleri almalıyız
         System.out.println("Matematik notunuz:");
         mat = inp.nextInt();
-
+        //comment line
         System.out.println("Fizik notunuz:");
         fizik = inp.nextInt();
 
